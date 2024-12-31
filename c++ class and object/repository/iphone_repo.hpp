@@ -1,0 +1,8 @@
+#include<vector>
+#include"../model/iphone.hpp"
+
+
+vector<IPhone> iphoneRepositories = {
+    IPhone(1,"IPhone 16 Pro max",1200)
+    
+};
